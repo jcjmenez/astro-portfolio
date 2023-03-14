@@ -22,13 +22,16 @@ const featureProjects = info.projects.map((project, index) => {
       description={info.about}
       ogImageUrl={"/assets/images/profile.png"}
     />
-    <meta name="google-site-verification" content="Po7tOxHyaByCCK4gD9AqvnliDpsZE6TbnL_8BaulWls" />
+    <meta
+      name="google-site-verification"
+      content="Po7tOxHyaByCCK4gD9AqvnliDpsZE6TbnL_8BaulWls"
+    />
   </head>
 
   <body>
     <Layout>
       <Hero name={info.name} about={info.about} />
-      <Experience title={"EXPERIENCE"} details={info.experience} />
+      <!--<Experience title={"EXPERIENCE"} details={info.experience} />!-->
       <Experience title={"EDUCATION"} details={info.education} />
       <section>
         <h2 class="w-[15rem] dark:text-light mt-16">FEATURE PROJECTS</h2>

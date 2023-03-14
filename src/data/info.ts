@@ -41,11 +41,32 @@ export const info = {
 
   projects: [
     {
-      title: "Astro Portfolio",
+      title: "URL SHORTENER",
       isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/uzzii-21/astro-portfolio",
-      liveUrl: "https://astro-portfolio-uzair.vercel.app/",
+      githubUrl: "https://github.com/jcjmenez/url-shortener",
+      liveUrl: "https://github.com/jcjmenez/url-shortener",
+    },
+    {
+      title: "Movie Recommender",
+      isFeatured: false,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/jcjmenez/url-shortener",
+      liveUrl: "https://github.com/jcjmenez/url-shortener",
+    },
+    {
+      title: "Recipe Classifier",
+      isFeatured: false,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/jcjmenez/url-shortener",
+      liveUrl: "https://github.com/jcjmenez/url-shortener",
+    },
+    {
+      title: "BabySense",
+      isFeatured: false,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      githubUrl: "https://github.com/jcjmenez/url-shortener",
+      liveUrl: "https://github.com/jcjmenez/url-shortener",
     },
   ],
 };
