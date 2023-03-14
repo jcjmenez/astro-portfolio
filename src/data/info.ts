@@ -48,25 +48,25 @@ export const info = {
       liveUrl: "https://github.com/jcjmenez/url-shortener",
     },
     {
-      title: "Movie Recommender",
-      isFeatured: false,
+      title: "MOVIE RECOMMENDER",
+      isFeatured: true,
+      thumbnail: "/assets/images/MovieRecommender.png",
+      githubUrl: "https://github.com/jcjmenez/url-shortener",
+      liveUrl: "https://github.com/jcjmenez/url-shortener",
+    },
+    {
+      title: "RECIPE CLASSIFIER",
+      isFeatured: true,
       thumbnail: "/assets/images/astro-portfolio.png",
       githubUrl: "https://github.com/jcjmenez/url-shortener",
       liveUrl: "https://github.com/jcjmenez/url-shortener",
     },
     {
-      title: "Recipe Classifier",
-      isFeatured: false,
-      thumbnail: "/assets/images/astro-portfolio.png",
+      title: "BABYSENSE",
+      isFeatured: true,
+      thumbnail: "/assets/images/BabySense.png",
       githubUrl: "https://github.com/jcjmenez/url-shortener",
       liveUrl: "https://github.com/jcjmenez/url-shortener",
-    },
-    {
-      title: "BabySense",
-      isFeatured: false,
-      thumbnail: "/assets/images/astro-portfolio.png",
-      githubUrl: "https://github.com/jcjmenez/url-shortener",
-      liveUrl: "https://github.com/jcjmenez/url-shortener",
-    },
+    }
   ],
 };
